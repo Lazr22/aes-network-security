@@ -1,0 +1,14 @@
+# Compiled binaries
+build/
+*.o
+
+# Secret encryption keys
+key.hex
+
+# Generated test files
+files/test_128mb.bin
+files/received.bin
+
+# Temporary files
+*.log
+*.tmp
